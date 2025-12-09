@@ -38,7 +38,7 @@ Ratings are color-coded:
 Clean and mobile-friendly design
 
 Poster images adapt to screen sizes
-
+___
 <h3>🧠 What I Learned</h3>
 
 Through this project, I gained experience in:
@@ -52,7 +52,7 @@ Through this project, I gained experience in:
   4.Frontend layout and styling
   
   5.Connecting and uploading a project using Git + GitHub
-
+___
 <h3>🛠 Tech Stack</h3>
 
 Technology	Purpose
@@ -64,7 +64,7 @@ CSS3	Styling & layout
 JavaScript (ES6)	Logic, API calls, DOM updates
 
 Movie API (TMDB or similar)	Source of movie data
-
+___
 <h3>📂 Project Structure</h3>
 
 ├── movie.html
@@ -72,7 +72,7 @@ Movie API (TMDB or similar)	Source of movie data
 ├── style.css
 
 └── script.js
-
+___
 <h3>▶️ How to Run</h3>
 
 Download or clone the repo:
@@ -81,7 +81,7 @@ git clone https://github.com/dhiksha-14/moviegenerate
 Open movie.html in any browser.
 
 That's it — no installation needed!
-
+___
 <h3>⭐ Future Improvements</h3>
 
 Add pagination
@@ -91,7 +91,7 @@ Show more movie details in a popup
 Add dark mode
 
 Add favorite movies using local storage
-
+___
 <h3>❤️ Author</h3>
 
 Hari Dhikshashri P N
@@ -101,5 +101,6 @@ GitHub: dhiksha-14
 Linkedin: Dhiksha Prasanna 
 
 Feel free to connect with me!
-
+___
 <h3>💡"Code that brings movies to life."</h3>
+___
