@@ -103,4 +103,3 @@ Linkedin: Dhiksha Prasanna
 Feel free to connect with me!
 ___
 <h3>💡"Code that brings movies to life."</h3>
-___
